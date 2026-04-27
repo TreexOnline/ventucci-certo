@@ -1,0 +1,7 @@
+project_id = "dxkqeaqgwvlghuuexcrf"
+
+[functions.bootstrap-admin]
+verify_jwt = false
+
+[functions.track-event]
+verify_jwt = false
